@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jakub Kliś
-- 👀 I’m interested in programming
+- 👀 I’m interested in sailing, skiing and riding a motorcycle
 - 🌱 I’m currently learning HTML, CSS, C# and SQL
 <!---
 jklis2/jklis2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
