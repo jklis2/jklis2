@@ -21,14 +21,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
 :man_technologist: About Me :
 
-- :telescope: I’m currently learning to be Full Stack Developer
+- :telescope: I’m currently learning to be Full Stack Developer in WSEI Kraków
 
-- :seedling: You can see my projects at: https://github.com/jklis2
+- :seedling: I'm learning C#, HTML5, CSS3, JavaScript and MS SQL Server
 
-- :zap: I'm learning C#, HTML5, CSS3, JavaScript and MS SQL Server
-
+- :zap: You can see my projects at: https://github.com/jklis2
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="Csharp" width="40" height="40"/>&nbsp;
