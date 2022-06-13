@@ -22,7 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-:man_technologist: About Me :
+### :man_technologist: About Me :
 
 - :telescope: I’m currently learning to be Full Stack Developer in WSEI Kraków
 
@@ -41,3 +41,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="VS" alt="VS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
