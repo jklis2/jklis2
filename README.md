@@ -29,4 +29,3 @@
 
 - :zap:
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-jakub-klis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jakub-kli%C5%9B/)
