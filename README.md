@@ -23,7 +23,7 @@
 </div>
 :man_technologist: About Me :
 
-- :telescope:
+- :telescope: I’m currently learning to be Full Stack Developer
 
 - :seedling:
 
