@@ -25,9 +25,9 @@
 
 - :telescope: I’m currently learning to be Full Stack Developer
 
-- :seedling:
+- :seedling: You can see my projects at: https://github.com/jklis2
 
-- :zap:
+- :zap: I'm learning C#, HTML5, CSS3, JavaScript and MS SQL Server
 
 
 <div>
