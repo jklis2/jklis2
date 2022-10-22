@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **C#, HTML5, CSS3, JavaScript, TypeScript and MS SQL Server**
 
-- 👨‍💻 All of my projects are available at [https://github.com/jklis2](https://github.com/jklis2)
+- 👨‍💻 All of my projects are available at: [https://github.com/jklis2](https://github.com/jklis2)
 
-- 📫 How to reach me **jakubklis2201@gmail.com**
+- 📫 How to reach me: **jakubklis2201@gmail.com**
 
-- ⚡ Fun fact **I am funny 😜**
+- ⚡ Fun fact: **I am funny 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
