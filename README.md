@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://twitter.com/jklis20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jklis20" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jakub-kliś" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jakub-kliś" height="30" width="40" /></a>
-<a href="https://fb.com/jakub kliś" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub kliś" height="30" width="40" /></a>
+<a href="https://fb.com/jakub.klis.58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jakub kliś" height="30" width="40" /></a>
 <a href="https://instagram.com/kuba_klis_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kuba_klis_01" height="30" width="40" /></a>
 </p>
 
