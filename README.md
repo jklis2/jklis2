@@ -1,3 +1,5 @@
+![logo](https://github.com/jklis2/jklis2/blob/main/Github%20Banner.png)
+
 <h1 align="center">Hi 👋, I'm Jakub Kliś</h1>
 <h3 align="center">A passionate Full-Stack developer from Poland</h3>
 
